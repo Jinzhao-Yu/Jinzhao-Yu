@@ -1,8 +1,7 @@
 👋 Hi! Welcome to my world!\
 🙋‍♂️ I’m Jinzhao Yu, an applied statistics graduate student at UMich!\
-👀 I’m interested in ...\
+👀 I’m persuing a Data Scientist or Machine Learning Engineer job from 2023.\
 🌱 I’m currently learning ...\
-💞️ I’m looking to collaborate on ...\
 📫 How to reach me ...
 
 <!---
